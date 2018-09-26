@@ -10,3 +10,6 @@
 	background-color: #f44eef;
 	font-size: 21;
 }
+div:hover{
+	font-weight: bold;
+}
