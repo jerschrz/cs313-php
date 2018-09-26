@@ -8,5 +8,5 @@ function pick_color()
 }
 function pick_color_jq()
 {
-	$("#div1").css("backgroundColor", "red");
+	$("#div1").css("backgroundColor", $("#textbox_jq").val());
 }
