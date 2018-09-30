@@ -35,11 +35,11 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col bg-success">
-					<span>Hello there</span>
+				<div class="col">
+					<img src="images/babushka1.jpg" class="float-left">
 				</div>
-				<div class="col bg-danger">
-					<span>General Kenobi</span>
+				<div class="col">
+					<p>This is Babushka<br>Babushka loves you</p>
 				</div>
 			</div>
 		</div>
