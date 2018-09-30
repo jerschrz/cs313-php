@@ -36,7 +36,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<img src="images/babushka1.jpg" class="float-left">
+					<img src="images/babushka1.jpg" class="img-fluid float-left">
 				</div>
 				<div class="col">
 					<p>This is Babushka<br>Babushka loves you</p>
