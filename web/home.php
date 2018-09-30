@@ -30,7 +30,7 @@
 				</li>
 			</ul>
 		</nav>
-		<div id="page">
+		<div id="pagecontent">
 			<span>Hello there</span>
 		</div>
 	</body>
