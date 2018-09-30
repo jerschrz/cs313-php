@@ -39,7 +39,7 @@
 					<img src="images/babushka1.jpg" class="img-fluid float-right">
 				</div>
 				<div class="col">
-					<span class="float-left align-middle">This is Babushka<br>Babushka loves you</span>
+					<p class="float-left my-auto">This is Babushka<br>Babushka loves you</p>
 				</div>
 			</div>
 		</div>
