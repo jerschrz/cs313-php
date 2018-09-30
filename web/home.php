@@ -30,8 +30,13 @@
 				</li>
 			</ul>
 		</nav>
-		<div id="pagecontent">
-			<span>Hello there</span>
+		<div class="row">
+			<div class="col">
+				<span>Hello there</span>
+			</div>
+			<div class="col">
+				<span>General Kenobi</span>
+			</div>
 		</div>
 	</body>
 </html>
