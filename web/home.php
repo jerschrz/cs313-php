@@ -31,6 +31,7 @@
 			</ul>
 		</nav>
 		<div id="page">
+			<span>Hello there</span>
 		</div>
 	</body>
 </html>
