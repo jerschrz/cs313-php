@@ -36,10 +36,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<img src="images/babushka1.jpg" class="img-fluid float-left">
+					<img src="images/babushka1.jpg" class="img-fluid float-right">
 				</div>
 				<div class="col">
-					<p>This is Babushka<br>Babushka loves you</p>
+					<p class="float-left">This is Babushka<br>Babushka loves you</p>
 				</div>
 			</div>
 		</div>
