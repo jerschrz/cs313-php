@@ -42,6 +42,15 @@
 					<p class="float-left">This is Babushka<br>Babushka loves you</p>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col">
+					<span>
+						<?php
+							echo date("l jS \of F Y h:i:s A");
+						?>
+					</span>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>
