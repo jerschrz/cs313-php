@@ -35,11 +35,11 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col">
+				<div class="col align-items-center">
 					<img src="images/babushka1.jpg" class="img-fluid float-right">
 				</div>
 				<div class="col">
-					<p class="float-left align-self-center">This is Babushka<br>Babushka loves you</p>
+					<p class="float-left">This is Babushka<br>Babushka loves you</p>
 				</div>
 			</div>
 		</div>
