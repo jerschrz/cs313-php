@@ -30,6 +30,9 @@
 				</li>
 			</ul>
 		</nav>
+		<div class="jumbotron text-center">
+			<h1>Welcome To My Homepage!</h1>
+		</div>
 		<div class="container">
 			<div class="row">
 				<div class="col bg-success">
