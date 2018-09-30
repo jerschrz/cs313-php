@@ -44,7 +44,8 @@
 			</div>
 			<div class="row">
 				<div class="col">
-					<span>
+					<span class="float-center">
+						<br><br>
 						<?php
 							echo date("l jS \of F Y h:i:s A");
 						?>
