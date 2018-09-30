@@ -34,8 +34,8 @@
 			<h1>Welcome To My Homepage!</h1>
 		</div>
 		<div class="container">
-			<div class="row">
-				<div class="col-6 align-items-center">
+			<div class="row align-items-center">
+				<div class="col-6">
 					<img src="images/babushka1.jpg" class="img-fluid float-right">
 				</div>
 				<div class="col-6">
