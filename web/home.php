@@ -31,15 +31,13 @@
 			</ul>
 		</nav>
 		<div class="container">
-		<div class="row">
-				<div class="col"></div>
+			<div class="row">
 				<div class="col bg-success">
 					<span>Hello there</span>
 				</div>
 				<div class="col bg-danger">
 					<span>General Kenobi</span>
 				</div>
-				<div class="col"></div>
 			</div>
 		</div>
 	</body>
