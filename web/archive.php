@@ -12,6 +12,7 @@
 			$items = array();
 			$items['hello.html'] = "Prove01 - Hello World";
 			$items['home.php'] = "Prove02 - Home Page";
+			$items['prove03a.php'] = "Prove03 - Shopping Cart"
 		?>
 	</head>
 	<body>
