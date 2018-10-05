@@ -49,7 +49,7 @@
 						 	"</div>" .
 						 "</div>";
 					if($index == 3) {
-						echo "</div>";
+						echo "</div><br>";
 					}
 				}
 			?>

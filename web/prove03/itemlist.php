@@ -89,4 +89,11 @@
 	array_push($listings, $tempitem);
 	unset($tempitem);
 
+	$tempitem = new Listing;
+	$tempitem->setName("Sample Item 9");
+	$tempitem->setImage("");
+	$tempitem->setPrice("$10.99");
+	array_push($listings, $tempitem);
+	unset($tempitem);
+
 ?>
