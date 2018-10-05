@@ -48,9 +48,11 @@
 						 		"<a href=\"#\" class=\"btn btn-primary\">Add to Cart</a>" .
 						 	"</div>" .
 						 "</div>";
-					if($index == 3) {
-						echo "</div><br>";
+					if($index > 3) {
+						echo "</div>";
+						$index = 0;
 					}
+					$index += 1;
 				}
 			?>
 		</div>
