@@ -16,7 +16,7 @@ first_name        varchar(20)  NOT NULL,
 last_name         varchar(30)  NOT NULL,
 email             varchar(30)  NOT NULL,
 password          varchar(30)  NOT NULL,
-payment_method    int          NOT NULL REFERENCES common_loookup(common_lookup_id),
+payment_method    int          NOT NULL REFERENCES common_lookup(common_lookup_id),
 card_number       varchar(19),
 paypal_account    varchar(30),
 phone_number      varchar(13)  NOT NULL
@@ -35,69 +35,69 @@ customer_id       int          NOT NULL REFERENCES customer(customer_id)
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"rental_item_type",
-"grill");
+) VALUES (
+'rental_item_type',
+'grill');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"rental_item_type",
-"chair");
+) VALUES (
+'rental_item_type',
+'chair');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"rental_item_type",
-"cooler");
+) VALUES (
+'rental_item_type',
+'cooler');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"rental_item_type",
-"table");
+) VALUES (
+'rental_item_type',
+'table');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"rental_item_condition",
-"GOOD");
+) VALUES (
+'rental_item_condition',
+'GOOD');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"rental_item_condition",
-"ACCEPTABLE");
+) VALUES (
+'rental_item_condition',
+'ACCEPTABLE');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"rental_item_condition",
-"POOR");
+) VALUES (
+'rental_item_condition',
+'POOR');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"payment_method_type",
-"VISA");
+) VALUES (
+'payment_method_type',
+'VISA');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"payment_method_type",
-"MASTERCARD");
+) VALUES (
+'payment_method_type',
+'MASTERCARD');
 
 INSERT INTO COMMON_LOOKUP (
 common_lookup_context,
 common_lookup_meaning
-)VALUES(
-"payment_method_type",
-"PAYPAL");
+) VALUES (
+'payment_method_type',
+'PAYPAL');
